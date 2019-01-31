@@ -12,6 +12,7 @@ There will be five of them:
 
 ### SSH to devices
 > This App contains the code necessary to open the IP addresses file, retrieve IPs.
+> It is the first module to be developped.
 
 ### App 2
 
